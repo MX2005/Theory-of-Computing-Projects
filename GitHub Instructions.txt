@@ -1,0 +1,7 @@
+git clone --branch Regex-To-NFA --single-branch https://github.com/MX2005/Theory-of-Computing-Projects.git
+
+
+2. then do your thin if you want to put new file or any other thing
+
+
+3. git push origin Regex-To-NFA
